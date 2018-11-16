@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDeletes", "FileDeletes\FileDeletes.csproj", "{19AE92A5-C006-49D5-BB90-C4FEFBA36724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AE92A5-C006-49D5-BB90-C4FEFBA36724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AE92A5-C006-49D5-BB90-C4FEFBA36724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AE92A5-C006-49D5-BB90-C4FEFBA36724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AE92A5-C006-49D5-BB90-C4FEFBA36724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898D0EA9-2CFC-40A8-AA7C-A8EC69BCBCEF}
+	EndGlobalSection
+EndGlobal

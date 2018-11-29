@@ -2,25 +2,25 @@
   "Options": [
     {
       "FolderPath": "E:\\IIS Web\\TC_Private_RKE_API\\LogImage",
-      "Interval": "24:00:00",
+      "Interval": "1.00:00:00",
       "Filter": "*.jpg",
       "DaysBefore": 7
     },
     {
       "FolderPath": "E:\\IIS Web\\TC_Private_RKE_API\\Logs",
-      "Interval": "24:00:00",
+      "Interval": "1.00:00:00",
       "Filter": "*.log",
       "DaysBefore": 15
     },
     {
       "FolderPath": "E:\\IIS Web\\TC_Private_RKE\\Logs",
-      "Interval": "24:00:00",
+      "Interval": "1.00:00:00",
       "Filter": "*.log",
       "DaysBefore": 15
     },
     {
       "FolderPath": "E:\\IIS Web\\TC_Private\\Logs",
-      "Interval": "24:00:00",
+      "Interval": "1.00:00:00",
       "Filter": "*.log",
       "DaysBefore": 15
     }
